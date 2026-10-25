@@ -1,0 +1,12 @@
+# --- Bot ---
+python-telegram-bot>=21.0,<23.0   # asynchroniczny klient Telegram Bot API
+python-dotenv>=1.0                # wczytywanie zmiennych z pliku .env
+
+# --- NLP ---
+nltk>=3.9                         # tokenizacja, n-gramy
+spacy>=3.7,<3.9                   # tokenizacja, lematyzacja, stopwords PL
+scikit-learn>=1.4                 # CountVectorizer (BoW) i TfidfVectorizer
+pystempel>=2.0                    # stemmer dla jezyka polskiego (NLTK go nie ma)
+preshed<3.0.14        # 3.0.14 psuje ladowanie modeli spaCy (OverflowError)
+# --- Dane ---
+pydantic>=2.6                     # walidacja modelu zadania
