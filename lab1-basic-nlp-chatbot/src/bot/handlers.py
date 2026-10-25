@@ -28,7 +28,6 @@ MAX_CHUNK = 3500  # limit Telegrama to 4096 znakow; zostawiamy zapas na znacznik
 Handler = Callable[[Update, ContextTypes.DEFAULT_TYPE], Awaitable[None]]
 
 
-# ------------------------------------------------------------------ pomocnicze
 def safe(func: Handler) -> Handler:
     """Dekorator: oczekiwane bledy (BotError) -> czytelny komunikat, reszta -> log."""
 
@@ -98,7 +97,6 @@ def _format_task(task: Task) -> str:
     return line
 
 
-# -------------------------------------------------------------------- komendy
 @safe
 async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.effective_message.reply_text(HELP_TEXT, parse_mode=ParseMode.HTML)
@@ -176,7 +174,6 @@ async def task_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await _reply_pre(update, f"Zadanie {task.id}\n\n{result}")
 
 
-# ---------------------------------------------------------------- rejestracja
 COMMAND_MENU = [
     BotCommand("tasks", "lista zadan"),
     BotCommand("add", "dodaj zadanie"),

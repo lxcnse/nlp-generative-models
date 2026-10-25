@@ -53,7 +53,6 @@ class NlpService:
         self._aliases[f"{xgram_n}gram"] = "xgram"
         self._aliases["xgrams"] = "xgram"
 
-    # ------------------------------------------------------------------- API
     def available_operations(self) -> dict[str, str]:
         ops = {name: desc for name, (desc, _) in self._ops.items()}
         ops["all"] = "wszystkie powyzsze naraz"
@@ -73,7 +72,7 @@ class NlpService:
         desc, func = self._ops[name]
         return f"=== {name.upper()} - {desc} ===\n{func(text, corpus)}"
 
-    # ------------------------------------------------------------ pomocnicze
+
     @staticmethod
     def _words(text: str) -> list[str]:
         """Znormalizowane slowa bez interpunkcji - baza dla n-gramow i stemmingu."""
@@ -83,7 +82,7 @@ class NlpService:
     def _pairs(pairs: list[tuple[str, str]]) -> str:
         return "\n".join(f"{a} -> {b}" for a, b in pairs) or "(brak)"
 
-    # ----------------------------------------------------------- operacje NLP
+
     def _tokens(self, text: str, corpus: Sequence[str]) -> str:
         cmp = compare_tokenizers(text)
         lines = [f"NLTK  ({len(cmp.nltk)}): {cmp.nltk}", f"spaCy ({len(cmp.spacy)}): {cmp.spacy}"]
