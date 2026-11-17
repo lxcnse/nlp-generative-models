@@ -1,0 +1,151 @@
+text,label
+Przygotować raport kwartalny dla zarządu,praca
+Odpisać na maila od klienta w sprawie oferty,praca
+Spotkanie z zespołem o 10:00 w sali konferencyjnej,praca
+Wystawić fakturę za usługi wdrożeniowe,praca
+Zrobić code review pull requesta Marka,praca
+Zaktualizować backlog projektu przed sprintem,praca
+Przygotować prezentację dla inwestorów,praca
+Zadzwonić do dostawcy w sprawie opóźnionej dostawy,praca
+Wysłać umowę do podpisu działowi prawnemu,praca
+Uzupełnić timesheet za ten tydzień,praca
+Omówić z szefem podwyżkę i cele roczne,praca
+Poprawić błąd na produkcji zgłoszony przez klienta,praca
+Wdrożyć nową wersję aplikacji na serwer testowy,praca
+Zaplanować retrospektywę sprintu z zespołem,praca
+Przeprowadzić rozmowę rekrutacyjną z kandydatem na juniora,praca
+Rozliczyć delegację służbową do Krakowa,praca
+Przygotować budżet działu na przyszły rok,praca
+Napisać dokumentację techniczną modułu płatności,praca
+Zarezerwować salę na warsztaty dla pracowników,praca
+Wysłać ofertę handlową do nowego kontrahenta,praca
+Zgłosić urlop w systemie kadrowym,praca
+Przejrzeć wyniki sprzedaży z ostatniego miesiąca,praca
+Ustalić harmonogram projektu z kierownikiem,praca
+Odpowiedzieć na zgłoszenia w Jirze,praca
+Przygotować notatkę ze spotkania z klientem,praca
+Skonfigurować pipeline CI dla repozytorium firmy,praca
+Zorganizować onboarding nowej pracowniczki,praca
+Negocjować warunki kontraktu z partnerem biznesowym,praca
+Przygotować demo produktu na targi branżowe,praca
+Sprawdzić logi serwera po nocnej awarii,praca
+Złożyć wniosek o zwrot kosztów służbowych,praca
+Napisać testy jednostkowe do nowego endpointu,praca
+Przygotować agendę na jutrzejsze spotkanie zarządu,praca
+Podsumować wyniki kampanii marketingowej,praca
+Zaktualizować CV i profil zawodowy na LinkedIn,praca
+Przekazać projekt koledze przed urlopem,praca
+Ocenić wnioski o dofinansowanie projektu firmowego,praca
+Uzgodnić z działem IT dostęp do VPN,praca
+Przygotować ofertę przetargową dla urzędu,praca
+Zrobić migrację bazy danych klienta,praca
+Wysłać cotygodniowy status projektu do interesariuszy,praca
+Przeanalizować zgłoszenia reklamacyjne klientów,praca
+Zaplanować wdrożenie systemu CRM w firmie,praca
+Przygotować szkolenie z bezpieczeństwa dla zespołu,praca
+Spisać wymagania biznesowe z warsztatów z klientem,praca
+Odnowić certyfikat SSL na firmowej stronie,praca
+Zatwierdzić faktury kosztowe w systemie księgowym,praca
+Przygotować ocenę okresową pracowników,praca
+Zorganizować wyjazd integracyjny dla działu,praca
+Przejrzeć pull requesty przed release,praca
+Kupić mleko chleb i jajka,dom
+Posprzątać łazienkę i umyć lustro,dom
+Odkurzyć salon i sypialnię,dom
+Zrobić pranie i rozwiesić ubrania,dom
+Wyprasować koszule na cały tydzień,dom
+Ugotować obiad na niedzielę dla rodziny,dom
+Zapłacić rachunek za prąd i gaz,dom
+Przelać czynsz za mieszkanie,dom
+Wynieść śmieci i posegregować plastik,dom
+Wyprowadzić psa na długi spacer,dom
+Kupić karmę dla kota,dom
+Podlać kwiaty na balkonie,dom
+Umówić hydraulika do cieknącego kranu w kuchni,dom
+Rozładować zmywarkę i umyć naczynia,dom
+Zrobić zakupy w markecie na weekend,dom
+Wymienić żarówkę w przedpokoju,dom
+Skosić trawnik w ogrodzie,dom
+Zawieźć samochód do mechanika na przegląd,dom
+Odebrać dzieci z przedszkola o 16,dom
+Kupić prezent na urodziny mamy,dom
+Zadzwonić do babci z życzeniami imieninowymi,dom
+Wyczyścić lodówkę i wyrzucić przeterminowane jedzenie,dom
+Złożyć nową szafę z Ikei,dom
+Umyć okna w kuchni i salonie,dom
+Zaplanować menu obiadów na cały tydzień,dom
+Odebrać paczkę z paczkomatu,dom
+Zmienić pościel w sypialni,dom
+Kupić proszek do prania i płyn do naczyń,dom
+Pomalować ściany w pokoju dziecięcym,dom
+Umówić wizytę u weterynarza dla psa,dom
+Upiec ciasto na rodzinne spotkanie,dom
+Naprawić cieknącą spłuczkę w toalecie,dom
+Posegregować ubrania i oddać niepotrzebne,dom
+Zrobić porządek w garażu,dom
+Przygotować kolację dla gości w sobotę,dom
+Kupić warzywa i owoce na targu,dom
+Wymienić filtr w okapie kuchennym,dom
+Zapłacić za internet i telewizję,dom
+Zamówić węgiel na zimę do domu,dom
+Odśnieżyć podjazd przed domem,dom
+Uprzątnąć liście z ogrodu,dom
+Zawieźć tatę do lekarza na wizytę kontrolną,dom
+Rozmrozić zamrażarkę,dom
+Kupić nowe ręczniki do łazienki,dom
+Zaplanować rodzinny wyjazd na wakacje,dom
+Zmienić opony w samochodzie na zimowe,dom
+Wyczyścić piekarnik po pieczeniu,dom
+Powiesić półki w salonie,dom
+Kupić leki dla dziecka w aptece,dom
+Przygotować drugie śniadanie dzieciom do szkoły,dom
+Napisać sprawozdanie z laboratorium z NLP,nauka
+Powtórzyć materiał na kolokwium z algebry,nauka
+Przeczytać rozdział trzeci podręcznika do statystyki,nauka
+Nauczyć się słówek z angielskiego na test,nauka
+Oddać projekt zaliczeniowy z baz danych,nauka
+Przygotować się do egzaminu z analizy matematycznej,nauka
+Zrobić zadania domowe z fizyki,nauka
+Napisać rozdział pracy magisterskiej o transformerach,nauka
+Umówić konsultacje z promotorem,nauka
+Przerobić notatki z wykładu o sieciach neuronowych,nauka
+Rozwiązać listę zadań z prawdopodobieństwa,nauka
+Obejrzeć nagranie wykładu z uczenia maszynowego,nauka
+Zapisać się na zajęcia fakultatywne w USOS,nauka
+Przygotować referat na seminarium dyplomowe,nauka
+Zrobić fiszki do nauki hiszpańskiego,nauka
+Przeczytać artykuł naukowy o modelach językowych,nauka
+Ukończyć moduł kursu online z Pythona,nauka
+Powtórzyć wzory przed sesją egzaminacyjną,nauka
+Oddać sprawozdanie z ćwiczeń laboratoryjnych z chemii,nauka
+Zrobić notatki do eseju z filozofii,nauka
+Rozwiązać test próbny przed maturą z matematyki,nauka
+Napisać esej zaliczeniowy z historii sztuki,nauka
+Przećwiczyć zadania z programowania dynamicznego,nauka
+Złożyć podanie o stypendium naukowe w dziekanacie,nauka
+Zaimplementować algorytm Dijkstry na zajęcia z algorytmów,nauka
+Przygotować prezentację na ćwiczenia z ekonomii,nauka
+Nauczyć się do kartkówki z gramatyki niemieckiej,nauka
+Uzupełnić indeks i sprawdzić oceny w systemie uczelni,nauka
+Poprawić pracę licencjacką według uwag promotora,nauka
+Przeczytać lekturę obowiązkową na zajęcia z literatury,nauka
+Zrobić ćwiczenia z gramatyki angielskiej w podręczniku,nauka
+Przejrzeć slajdy z wykładu przed egzaminem ustnym,nauka
+Napisać program na laboratorium z systemów operacyjnych,nauka
+Wypożyczyć książki z biblioteki uczelnianej,nauka
+Przygotować plakat na studencką konferencję naukową,nauka
+Powtórzyć definicje z rachunku różniczkowego,nauka
+Odrobić lekcje z polskiego i przeczytać wiersz,nauka
+Rozwiązać zadania z olimpiady informatycznej,nauka
+Przygotować się do certyfikatu językowego FCE,nauka
+Zrobić mapę myśli z rozdziału o ewolucji,nauka
+Zapisać wnioski z eksperymentu do sprawozdania,nauka
+Wytrenować model klasyfikacji na zajęcia z NLP,nauka
+Nauczyć się dat na sprawdzian z historii,nauka
+Zrobić quiz powtórkowy z biologii,nauka
+Zapisać się na kurs przygotowawczy do egzaminu,nauka
+Przeczytać notatki kolegi z opuszczonych zajęć,nauka
+Przetłumaczyć tekst na zajęcia z łaciny,nauka
+Ćwiczyć wymowę z nauczycielem francuskiego,nauka
+Policzyć zadania z mechaniki na ćwiczenia,nauka
+Przygotować bibliografię do pracy dyplomowej,nauka

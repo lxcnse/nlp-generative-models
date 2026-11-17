@@ -1,0 +1,20 @@
+# --- Bot ---
+python-telegram-bot>=21.0,<23.0   # asynchroniczny klient Telegram Bot API
+python-dotenv>=1.0                # wczytywanie zmiennych z pliku .env
+
+# --- NLP (zadanie 1) ---
+nltk>=3.9                         # tokenizacja, n-gramy
+spacy>=3.7,<3.9                   # tokenizacja, lematyzacja, stopwords PL
+pystempel>=2.0                    # stemmer dla jezyka polskiego (NLTK go nie ma)
+preshed<3.0.14                    # 3.0.14 psuje ladowanie modeli spaCy (OverflowError)
+
+# --- Klasyfikacja (zadanie 2) ---
+scikit-learn>=1.4                 # wektoryzatory, klasyfikatory, podzial danych
+numpy>=1.26
+joblib>=1.3                       # zapis wytrenowanych modeli na dysk
+sentence-transformers>=3.0        # reprezentacja 'embedding' (pobiera PyTorch)
+datasets>=2.19                    # AG News z Hugging Face
+matplotlib>=3.8                   # wykresy macierzy pomylek (scripts/compare.py)
+
+# --- Dane ---
+pydantic>=2.6                     # walidacja modelu zadania
