@@ -1,7 +1,7 @@
 """Handlery komend Telegrama.
 
 Kazdy handler: (1) pobiera argumenty, (2) wola repozytorium / serwis NLP,
-(3) odpowiada. Logika biznesowa jest poza tym plikiem.
+(3) odpowiada.
 """
 from __future__ import annotations
 

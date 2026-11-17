@@ -180,7 +180,7 @@ weighted: Precision = 0.772 | Recall = 0.767 | F1 = 0.768
 
 | repr | metoda | ACC | ERR | Precision (macro) | Recall (macro) | F1 (macro) | F1 (weighted) | wlasne zdania | czas treningu [s] |
 |---|---|---|---|---|---|---|---|---|---|
-| embedding | adaboost | 0.933 | 0.067 | 0.944 | 0.933 | 0.933 | 0.933 | 0.8333 | 7.8 |
+| embedding | adaboost | 0.933 | 0.067 | 0.944 | 0.933 | 0.933 | 0.933 | 0.8333 | 7.3 |
 | embedding | tree | 0.767 | 0.233 | 0.772 | 0.767 | 0.768 | 0.768 | 0.6667 | 0.0 |
 | bow | tree | 0.500 | 0.500 | 0.518 | 0.500 | 0.500 | 0.500 | 0.5833 | 0.0 |
 | tfidf | adaboost | 0.467 | 0.533 | 0.481 | 0.467 | 0.467 | 0.467 | 0.6667 | 0.3 |
